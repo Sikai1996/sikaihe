@@ -7,7 +7,7 @@ body{
   font-family: cursive;
 }/*this is all pages size */
 .home{
-  background-image: url("../pic/moun.jpg");
+  background-image: url("../pic/bri.jpg");
     max-height: 100%;
     max-width: 100%;
     background-size: cover;
@@ -19,7 +19,7 @@ body{
     background-repeat:no-repeat;
 }/* home page */
 .bio{
-  background-image: url("../pic/london.jpg");
+  background-image: url("../pic/tow.jpg");
   max-height: 100%;
   max-width: 100%;
   height: 370px;
