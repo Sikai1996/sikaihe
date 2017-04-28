@@ -1,4 +1,4 @@
-NAME: SIKAI HE
+ANAME: SIKAI HE
 NUMBER: 16429428
 WEBSITE URL: https://github.com/Sikai1996/sikaihe.git
 THIS IS MY GITHUB: https://github.com/Sikai1996
